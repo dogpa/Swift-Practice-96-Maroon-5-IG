@@ -13,6 +13,7 @@
 		2DA6B278271C530A0097F2C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DA6B276271C530A0097F2C9 /* Main.storyboard */; };
 		2DA6B27A271C530C0097F2C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DA6B279271C530C0097F2C9 /* Assets.xcassets */; };
 		2DA6B27D271C530C0097F2C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DA6B27B271C530C0097F2C9 /* LaunchScreen.storyboard */; };
+		2DA6B285271C53260097F2C9 /* IG JSON API Struct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DA6B284271C53260097F2C9 /* IG JSON API Struct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2DA6B279271C530C0097F2C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DA6B27C271C530C0097F2C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DA6B27E271C530C0097F2C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DA6B284271C53260097F2C9 /* IG JSON API Struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IG JSON API Struct.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2DA6B270271C530A0097F2C9 /* AppDelegate.swift */,
 				2DA6B272271C530A0097F2C9 /* SceneDelegate.swift */,
 				2DA6B274271C530A0097F2C9 /* ViewController.swift */,
+				2DA6B284271C53260097F2C9 /* IG JSON API Struct.swift */,
 				2DA6B276271C530A0097F2C9 /* Main.storyboard */,
 				2DA6B279271C530C0097F2C9 /* Assets.xcassets */,
 				2DA6B27B271C530C0097F2C9 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DA6B285271C53260097F2C9 /* IG JSON API Struct.swift in Sources */,
 				2DA6B275271C530A0097F2C9 /* ViewController.swift in Sources */,
 				2DA6B271271C530A0097F2C9 /* AppDelegate.swift in Sources */,
 				2DA6B273271C530A0097F2C9 /* SceneDelegate.swift in Sources */,
